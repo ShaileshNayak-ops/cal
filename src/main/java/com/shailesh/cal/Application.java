@@ -56,7 +56,7 @@ public class Application {
                 }
             }else {
                 System.out.println("Wrong Method");
-                System.out.println("Tyy typing --help");
+                System.out.println("Try typing --help");
             }
         }
     }
