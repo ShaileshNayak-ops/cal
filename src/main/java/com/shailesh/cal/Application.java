@@ -55,7 +55,8 @@ public class Application {
                     e.printStackTrace();
                 }
             }else {
-                System.out.println("Invalid opetion\nTry typing --help");
+                System.out.println("Wrong Method");
+                System.out.println("Tyy typing --help");
             }
         }
     }
