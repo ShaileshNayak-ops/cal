@@ -6,13 +6,13 @@ This is a simple command line tool to generate licenses for open source software
 
 ## Installation
 
-Required JDK 8+ and [Apache Maven](maven.apache.org)
+Required JDK 8+ and Apache Maven
 
 ## Setting Up
 
 This project relies on an enironment variable LICENSE_DIR for its licenses. The directory is already provided but you can add your own
 
-### Usage
+## Usage
 
 ```sh
 java -jar cal.jar --create <license></license> <year> <project> <organisation>
