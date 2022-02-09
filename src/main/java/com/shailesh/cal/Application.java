@@ -54,6 +54,8 @@ public class Application {
                     System.out.println("[Error]: Arguments not supplied correctly");
                     e.printStackTrace();
                 }
+            }else {
+                System.out.println("Invalid opetion\nTry typing --help");
             }
         }
     }
