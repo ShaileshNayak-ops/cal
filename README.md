@@ -16,3 +16,4 @@ This project relies on an enironment variable LICENSE_DIR for its licenses. The 
 
 ```sh
 java -jar cal.jar --create <license></license> <year> <project> <organisation>
+```
